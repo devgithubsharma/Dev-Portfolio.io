@@ -14,7 +14,7 @@
 <img src="https://github.com/devgithubsharma/Dev-Portfolio.io/assets/96568994/b2e08333-46cb-48ef-aa40-f99d39be22f0" alt="MarineGEO circle logo" style="height: 70px; width:70px;"/>
 <img src="https://github.com/devgithubsharma/Dev-Portfolio.io/assets/96568994/5a8b0d81-98ea-4c8a-95e6-bca4f40e92c8" alt="MarineGEO circle logo" style="height: 70px; width:70px;"/> 
 <img src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" alt="MarineGEO circle logo" style="height: 70px; width:70px;"/>  
-<img src="https://github.com/devgithubsharma/Dev-Portfolio.io/assets/96568994/9b0ffd4d-17ed-4ae8-bdde-135a02170a62" alt="MarineGEO circle logo" style="height: 70px; width:70px;"/>
+
   
  
 
