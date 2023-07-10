@@ -2,4 +2,4 @@
 
   ## A passionate self taught programmer, Web Developer and problem solver.
 
-#0969DA
+  * 👨🏻‍🎓 Check Out my Portfolio - [https://devportfolio-io.vercel.app/](Portfolio)
