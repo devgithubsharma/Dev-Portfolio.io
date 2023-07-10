@@ -7,6 +7,6 @@
   * 📧 How to reach me - [devsharmabsr03@gmail.com](devsharmabsr03@gmail.com)
 
     ## Languages and Tools :-
-            <img src="https://c8.alamy.com/comp/2CFJA44/python-programming-2CFJA44.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+    <img src="https://c8.alamy.com/comp/2CFJA44/python-programming-2CFJA44.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
     
     
