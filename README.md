@@ -2,4 +2,4 @@
 
   ## A passionate self taught programmer, Web Developer and problem solver.
 
-  * 👨🏻‍🎓 Check Out my Portfolio - [https://devportfolio-io.vercel.app/](Portfolio)
+  * 👨🏻‍🎓 Check Out my Portfolio - [Portfolio](https://devportfolio-io.vercel.app/)
