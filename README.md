@@ -7,6 +7,7 @@
   * 📧 How to reach me - [devsharmabsr03@gmail.com](devsharmabsr03@gmail.com)
 
     ## Languages and Tools :-
-            ![Alt text](https://c8.alamy.com/comp/2CFJA44/python-programming-2CFJA44.jpg)
+            ![python (3)](https://github.com/devgithubsharma/Dev-Portfolio.io/assets/96568994/cf83acba-d99a-4e9a-9b35-77551f5c9f43)
+
     
     
