@@ -80,7 +80,7 @@ const Home = () => {
               ></div>
 
             <p className='text-stone-300 text-2xl py-4 max-w-[700px]'> 
-I am Tech Enthusiasts with good code habits, have a passion for problem solving 
+I am a Tech Enthusiasts with good code habits, have a passion for problem solving 
 and to learn new tech stacks with utmost zeal.
 </p>
         <div>
